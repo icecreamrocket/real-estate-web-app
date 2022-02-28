@@ -1,2 +1,2 @@
 # real-estate-web-app
-next.js and react and rapid api
+next.js, react with rapid api and server side rendering
